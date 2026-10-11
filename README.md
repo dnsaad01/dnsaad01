@@ -28,10 +28,10 @@ Hey! I'm Saad, a computer engineering student (Génie Informatique / 5IIR) over 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Omni-channel Platform (PFA)](https://github.com/dnsaad01/omnichannel-notification-platform)** | Event-driven notification & workflow platform (PFA Internship at 6Solutions) | Spring Boot, Angular, Kafka, Keycloak, Docker |
-| **[E-Commerce (OutilPro)](https://github.com/dnsaad01)** | E-commerce platform for professional tools and equipment | React, Next.js, Tailwind CSS |
-| **[Fibre Management](https://github.com/dnsaad01)** | Optical fiber network management & tracking system | Full-Stack Architecture |
-| **[Cosumar Project](https://github.com/dnsaad01)** | Enterprise management solution & data processing | Java, Spring Boot, MySQL |
 | **[TicketFlow](https://github.com/dnsaad01/ticketflow)** | Microservices educational platform for distributed systems | Spring Boot, Spring Cloud Gateway |
+| **[Cosumar Project](https://github.com/dnsaad01/cosumar-project)** | Enterprise management solution & data processing | Java, Spring Boot, MySQL |
+| **[Fibre Management](https://github.com/dnsaad01/fiber-management)** | Optical fiber network management & tracking system | Full-Stack Architecture |
+| *E-Commerce (OutilPro)* | *Coming soon...* | *React, Next.js, Tailwind CSS* |
 
 ---
 
