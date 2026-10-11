@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Saad Dinari</h1>
+<h3 align="center">Full-Stack Software Developer & Computer Engineering Student</h3>
 
-<!--
-**dnsaad01/dnsaad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpf/?username=dnsaad01&style=flat-square&color=blue" alt="Visitor Count"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+Hey! I'm Saad, a computer engineering student (Génie Informatique / 5IIR) over at EMSI Casablanca. I spend most of my time building full-stack web and mobile apps, and I really enjoy working on backend architectures and distributed systems. I like seeing how everything connects from the database all the way to the frontend, and I'm always curious to tackle new technical challenges.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+* **Languages:** Java, C#, TypeScript, JavaScript, Python
+* **Backend:** Spring Boot, Spring Cloud, Hibernate/JPA, ASP.NET Core, Entity Framework Core
+* **Frontend:** React, Next.js, Angular, Tailwind CSS, JavaFX
+* **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Neo4j, Redis, Supabase
+* **DevOps & Tools:** Docker, Apache Kafka, Keycloak, Git, Vercel, Cisco Packet Tracer
+* **Mobile Development:** React Native, Expo, Android (Java/Kotlin)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Omni-channel Platform (PFE)](https://github.com/dnsaad01/omnichannel-notification-platform)** | Event-driven notification & workflow platform (PFA/PFE Internship at 6Solutions) | Spring Boot, Angular, Kafka, Keycloak, Docker |
+| **[TicketFlow](https://github.com/dnsaad01/ticketflow)** | Microservices educational platform for distributed systems | Spring Boot, Spring Cloud Gateway |
+| **[E-Commerce (OutilPro)](https://github.com/dnsaad01)** | E-commerce platform for professional tools and equipment | React, Next.js, Tailwind CSS |
+| **[Fibre Management](https://github.com/dnsaad01)** | Optical fiber network management & tracking system | Full-Stack Architecture |
+| **[Cosumar Project](https://github.com/dnsaad01)** | Enterprise management solution & data processing | Java, Spring Boot, MySQL |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnsaad01&show_icons=true&theme=radical&hide_border=true" alt="Saad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsaad01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
